@@ -62,7 +62,7 @@ It focuses on:
 
 ```bash
 # 1) Clone the repository
-git clone https://github.com/your-username/covid19-data-analysis.git
+https://github.com/Vandan160305/Covid-19_Data_Analysis.git
 
 # 2) Install dependencies
 pip install pandas matplotlib seaborn
