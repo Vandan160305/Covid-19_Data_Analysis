@@ -58,6 +58,19 @@ It focuses on:
 
 ---
 
+## 👨‍💻 Author
+
+**Patel Vandan**
+- GitHub: https://github.com/Vandan160305
+- LinkedIn: https://www.linkedin.com/in/patel-vandan-6413822b4/
+- Email: vandan160305@gmail.com
+
+
+
+
+---
+
+
 ## 🚀 Quickstart
 
 ```bash
@@ -69,3 +82,6 @@ pip install pandas matplotlib seaborn
 
 # 3) Launch Jupyter Notebook
 jupyter notebook
+
+
+
